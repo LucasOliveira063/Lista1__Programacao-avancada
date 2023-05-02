@@ -1,0 +1,12 @@
+"Expressões"                         
+
+"A) p == &i;"
+"B) *p - *q;"
+"C) **&p;"
+"D) 3 - *p/(*q) + 7;"
+
+"Respostas"
+"A) True "
+"B) -2 "
+"C) 3 "
+"D) 10 "

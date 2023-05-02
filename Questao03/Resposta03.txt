@@ -1,0 +1,10 @@
+Notações:                                       Respostas 
+
+p = i;                                          Falso
+q = &j;
+p = &*&i;
+i = (*&)j;                                      Falso
+i = *&j;
+i = *&*&j;
+q = *p;                                         Falso
+i = (*p)++ + *q;

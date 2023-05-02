@@ -1,0 +1,22 @@
+Programa 1:
+int main(){
+  int vet[] = {4,9,13};
+  int i;
+  for(i=0;i<3;i++){
+  printf("%d ",*(vet+i));
+  }
+}
+r) Cria um vetor com 3 posições e uma variavel "i", ambos inteiros. 
+Depois, através de um laço de repetição "for" é utilizado um ponteiro para resgatar o valor do endereço do vetor, este que é somado a variavel "i". 
+Após isso, é usado o comando printf para demonstrar o resultado final dessas operações 
+
+Programa 2: 
+int main(){
+  int vet[] = {4,9,13};
+  int i;
+  for(i=0;i<3;i++){
+  printf("%X ",vet+i);
+  }
+}
+r) Inicia da mesma forma que o programa anterior. 
+Entranto, na hora de imprimir o resutado, por usar o formoto "%X" e não aplicar um ponteiro para o vetor, o resultado do endereço na memória é expresso em hexadecimal.

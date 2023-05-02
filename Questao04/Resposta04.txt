@@ -1,0 +1,15 @@
+Resposta obtida:                                        Resposta esperada:
+
+ 20                                                        20                                   
+ 29.0                                                      29.0                                      
+ p                                                         P 
+ e                                                         e 
+ p                                                         P 
+ e                                                         e 
+ t                                                         t 
+ 31                                                        31 
+ 45                                                        45 
+ 27                                                        27 
+ 31                                                        31 
+ 45                                                        45 
+ 27                                                        27 

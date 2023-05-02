@@ -1,0 +1,13 @@
+Considerando int mat[4], *p, x; as seguintes expresssões são 
+
+A) p = mat + 1;
+r)Valida. Expressão usual em C/C++ para variavel receber 0 + 1.
+
+B) p = mat++;
+r)Invalida. Em C/C++ é considerada um erro, lendo a expressão.
+
+C) p = ++mat;
+r)Invalida. Mesma coisa a expressão anterior.
+
+D) x = (*mat)++;
+r)Valida. Devido os parenteses, ele incrementa o mat no ponteiro e após isso faz a soma + 1
